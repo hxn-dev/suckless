@@ -1,0 +1,3 @@
+rsblocks &
+numlockx &
+exec dwm
